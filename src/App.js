@@ -47,7 +47,7 @@ function App() {
   return (
     <div className="App">
       <div className="weatherbg">
-        <h1>weather app</h1>
+        <h1>Weather-App</h1>
 
         <div className="inputopt my-3">
           <input type="text" className="form-control" placeholder='enter city name' onChange={handleChangeInput} value={inputCity} />
